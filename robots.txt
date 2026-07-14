@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-l9t6ou.asiabola112.xyz/sitemap.xml
